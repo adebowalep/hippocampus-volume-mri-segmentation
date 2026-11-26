@@ -1,0 +1,4 @@
+filename,reasons,supporting_observation
+hippocampus_010.nii.gz,"image is not a hippocampus crop: shape (512, 512, 241), spacing (0.598, 0.598, 1.25) mm, intensity range [-1024, 3071]; image shape (512, 512, 241) != label shape (36, 50, 31)",automated header/pairing check; see figures/excluded_samples.png
+hippocampus_118.nii.gz,image has no matching segmentation mask,automated header/pairing check; see figures/excluded_samples.png
+hippocampus_281.nii.gz,"image is not a hippocampus crop: shape (512, 512, 31), spacing (0.785, 0.785, 7.5) mm, intensity range [-1024, 1166]; image shape (512, 512, 31) != label shape (512, 512, 94); an anatomical region is missing",automated header/pairing check; see figures/excluded_samples.png
