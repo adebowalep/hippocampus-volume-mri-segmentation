@@ -1,0 +1,22 @@
+# data and model weights are not stored in git (see README)
+data/
+*.nii
+*.nii.gz
+models/*.pth
+
+# generated files
+outputs/
+runs/
+src/runs/
+notebooks/out/
+
+# python / tooling
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# local clutter
+.DS_Store
+*.zip
