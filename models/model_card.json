@@ -1,0 +1,10 @@
+{
+  "model_sha256": "07f97a6aaf32d5aee00ea73cfab199be8a58dfcab916d94afaac0e494db2024e",
+  "n_test_volumes": 39,
+  "mean_dice": 0.8965159866361276,
+  "volume_mae_mm3": 141.28205128205127,
+  "training_volume_range_mm3": [
+    2416.0,
+    4401.0
+  ]
+}

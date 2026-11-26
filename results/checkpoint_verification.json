@@ -1,0 +1,7 @@
+{
+  "reloaded_model_max_abs_dice_difference": 0.0,
+  "split_partitions_disjoint": true,
+  "cpu_inference_seconds_per_volume_median": 3.051398992538452,
+  "model_bytes": 124135190,
+  "model_sha256": "07f97a6aaf32d5aee00ea73cfab199be8a58dfcab916d94afaac0e494db2024e"
+}
